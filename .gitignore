@@ -1,0 +1,10 @@
+# Rust
+target/
+Cargo.lock
+
+# macOS
+.DS_Store
+
+# Soroban / tooling outputs
+wasm32-unknown-unknown/
+
